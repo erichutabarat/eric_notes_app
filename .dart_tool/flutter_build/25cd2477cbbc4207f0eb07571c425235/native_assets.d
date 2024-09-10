@@ -1,0 +1,1 @@
+ C:\\Users\\ASUS\\OneDrive\\Desktop\\Eric\\belajar\\dart\\flutter_apps\\notes_app\\Eric\ Notes\ App\\eric_notes_app\\.dart_tool\\flutter_build\\25cd2477cbbc4207f0eb07571c425235\\native_assets.yaml: 
